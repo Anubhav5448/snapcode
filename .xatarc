@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Anubhav5448-s-workspace-msmp6k.us-east-1.xata.sh/db/snapCast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}

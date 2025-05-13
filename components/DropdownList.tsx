@@ -11,7 +11,7 @@ const DropdownList = () => {
         <div className="filter-trigger">
           <figure>
             <Image
-              src="assets/icons/hamburger.svg"
+              src="/assets/icons/hamburger.svg"
               alt="menu"
               height={14}
               width={14}
