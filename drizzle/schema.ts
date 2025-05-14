@@ -60,5 +60,7 @@ export const schema = {
   user,
   account,
   session,
-  verification
+  verification,
 };
+
+// export const videos ={}
